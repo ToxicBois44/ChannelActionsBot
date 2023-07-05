@@ -41,6 +41,6 @@ pm2 start main.ts --interpreter=$path --interpreter-args="run --allow-env --allo
 
 echo "Bot has started. View logs using 'pm2 logs ChannelActions'"
 echo ""
-echo "Join @BotzHub <https://BotzHub.t.me> for more bots."
+echo "Join @sfptelegram <https://sfptelegram.t.me> for more bots."
 echo "Know more: https://channelactions.xditya.me"
 echo "Thanks for using Channel Actions Bot!"
